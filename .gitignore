@@ -1,0 +1,4 @@
+known_photos/*
+__pycache__
+credentials.json
+token.pickle

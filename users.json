@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "status": "active",
+      "office_room": "1a",
+      "name": "John Smith",
+      "email": "employee1@example.com"
+    }
+  ]
+}
